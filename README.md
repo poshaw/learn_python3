@@ -36,7 +36,7 @@ $ git push -u origin main
 
 ## Hello World
 ``` python
-#! /usr/bin/python3
+#! /usr/bin/python
 # -*- coding: utf-8 -*-
 
 import sys
