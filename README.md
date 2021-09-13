@@ -2,6 +2,18 @@
 ## Overhead
 This exersise assumes you are using linux
 
+Make sure python is installed
+``` bash
+$ python --version
+```
+
+We need to know where python is installed for the "sh-bang"
+``` bash
+$ which python
+```
+
+For me it's at /usr/bin/python
+
 Clone this to a local machine
 ``` bash
 $ git clone git@github.com:poshaw/learn_python3.git
