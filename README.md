@@ -14,7 +14,7 @@ $ which python
 
 For me it's at /usr/bin/python
 
-Clone this to a local machine
+Clone this git repository to a local machine
 ``` bash
 $ git clone git@github.com:poshaw/learn_python3.git
 ```
